@@ -1,0 +1,6 @@
+DATABASE_ENGINE = "django.db.backends.postgresql_psycopg2"
+DATABASE_NAME = "jk"
+DATABASE_USER = "a"
+DATABASE_PASSWORD = "asd"
+DATABASE_HOST = "localhost"
+DATABASE_PORT = "5432"
